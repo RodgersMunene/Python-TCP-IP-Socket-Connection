@@ -3,8 +3,7 @@
 This script sets up a network connection from your computer to a server running on the same machine (localhost) at port 7777, using a TCP/IP connection. I used NetCat to listen and confirm the connection.
 </br>
 1. Imports the Socket Library:
-</br>
-- `import socket` imports the necessary Python library to create network connections.
+</br>- `import socket` imports the necessary Python library to create network connections.
 </br>
 2. Defines the Server Details:
 </br>
